@@ -1,10 +1,11 @@
+<p align="center">
 # Razer Blade 15 2020 4K OLED Hackintosh
 
 Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4
 
-<p align="center">
+
   <img src="https://i.imgur.com/Pf1KxTt.png" />
-</p>
+
 ![boot screen](https://i.imgur.com/Pf1KxTt.png)
 
 ## Introduction
@@ -49,6 +50,6 @@ After modding the BIOS, change DVMT Pre Alloc to 64MB, DVMT Max Alloc to MAX. Al
 - @steelbrain for his work on the BIOS modding
 - OpenCore Team
 - CorpNewt
-
+</p>
 [1]:https://dortania.github.io/OpenCore-Install-Guide/
 [2]:https://github.com/corpnewt/GenSMBIOS
