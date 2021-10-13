@@ -40,6 +40,37 @@ You'll need to use a hardware programmer to unlock DVMT Options. Follow the inst
 - CPU Freq
 - Intel Bluetooth / Wifi
 
+## Get iServices working
+Start Fresh:
+- Log into iCloud.com
+- Click Find iPhone
+- Click All Devices
+- Select each of your failed attempts and click Remove from Account
+- Sign Out of iCloud.com
+- Sign Out of iCloud
+- Disconnect internet and Restart computer
+ 
+Clean House
+    - Open a Finder
+    - Click on your User Name
+    - Right click in window and select Show View Options
+    - Select Show Library Folder.
+    - Open Library folder and then Caches
+    - Delete all files and folders beginning with:
+        * com.apple.iCloudHelper
+        * com.apple.imfoundation.IMRemoteURLConnectionAgent
+        * com.apple.Message
+ 
+    - Navigate to Username/Library/Preferences 
+    - Delete all files and folders beginning with:
+        * com.apple.iChat
+        * com.apple.icloud
+        * com.apple.ids.service
+        * com.apple.imagent
+        * com.apple.imessage
+        * com.apple.imservice
+    - Clear Recycle Bin and Restart computer.
+
 ## Credits:
 
 - @steelbrain for his work on the BIOS modding
