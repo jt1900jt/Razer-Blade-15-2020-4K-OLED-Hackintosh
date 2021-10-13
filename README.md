@@ -5,9 +5,7 @@
 
 ## Introduction
   
-Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4
-
-If you would like to get started with creating a Hackintosh on your Razer Blade but have no experience, I would highly reccomend following Dortania's fantastic [Opencore Install guide][1] and then returning here for troubleshooting.
+Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4. If you would like to get started with creating a Hackintosh on your Razer Blade but have no experience, I would highly reccomend following Dortania's fantastic [Opencore Install guide][1] and then returning here for troubleshooting.
 
 ## Specs
 
@@ -24,7 +22,7 @@ If you would like to get started with creating a Hackintosh on your Razer Blade 
 
 Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's [GenSMBIOS][2] to create your own
 
-![PlatformInfo](https://i.imgur.com/HFMsSFR.png)
+<img src="https://i.imgur.com/HFMsSFR.png" />
 
 ## Pre-Install
 
