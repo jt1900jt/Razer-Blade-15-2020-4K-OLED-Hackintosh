@@ -1474,17 +1474,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02927403GUN9PR1M</string>
+			<string>REPLACE_ME</string>
 			<key>ROM</key>
-			<data>GE8y88RB</data>
+			<data>AAAAAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro16,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z10QKMD6N</string>
+			<string>REPLACE_ME</string>
 			<key>SystemUUID</key>
-			<string>B35F69CD-38F1-4727-8C2F-606524FDCF2F</string>
+			<string>REPLACE_ME</string>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ProcessorType</key>
