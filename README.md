@@ -2,7 +2,10 @@
 
 Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4
 
-![boot screen](https://i.imgur.com/pof6Vjm.png)
+<p align="center">
+  <img src="https://i.imgur.com/Pf1KxTt.png" />
+</p>
+![boot screen](https://i.imgur.com/Pf1KxTt.png)
 
 ## Introduction
 
