@@ -12,9 +12,9 @@ I replaced my wifi card with a DW1560 so I am using the BCM kexts. If you would 
 
 | Key                    | Value                                                        |
 | ---------------------- | ------------------------------------------------------------ |
-| CPU                    | Intel Core i7 10750h                                         |
+| CPU                    | Intel Core i7-10750H                                         |
 | GPU                    | Intel UHD Graphics 630                                       |
-| Screen                 | 15" 4K/UHD 120hz Touch Display                               |
+| Screen                 | 15" 4K/UHD Display                                           |
 | Camera                 | HD webcam (720p)                                             |
 | RAM                    | 16 DDR4 2,933MHz (2x8GB)                                     |
 | Internal SSD           | Samsung SSD 970 EVO (MacOS) + SAMSUNG MZVLB512HBJQ (Windows) |
@@ -27,8 +27,7 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 ## Pre-Install
 
-Razer has locked the BIOS tight this time, so you'll need a hardware programmer to unlock DVMT Options this time around. Follow the instructions on https://git.io/JkuFs for how to mod your BIOS for this.
-After modding the BIOS, change DVMT Pre Alloc to 64MB, DVMT Max Alloc to MAX. Also if you've selected "Dedicated GPU Only" Graphics mode, you'll need to put it back in "NVIDIA (R) Optimus" along with Disabling Secure boot.
+You'll need to use a hardware programmer to unlock DVMT Options. Follow the instructions on https://git.io/JkuFs for how to mod your BIOS.
 
 ## What works
 
