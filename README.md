@@ -21,24 +21,14 @@ I replaced my wifi card with a DW1560 so I am using the BCM kexts. If you would 
 | Audio                  | ALC298                                                       |
 | Wireless               | BCM94352Z - AKA DW1560                                       |
 
-Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's [GenSMBIOS][2] to create your own
-
-<img src="https://i.imgur.com/HFMsSFR.png" />
-
 ## Pre-Install
 
 You'll need to use a hardware programmer to unlock DVMT Options. Follow the instructions on https://git.io/JkuFs for how to mod your BIOS.
 
-## What works
+Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's [GenSMBIOS][2] to create your own
 
-- iGPU
-- Audio
-- Battery
-- Touchpad
-- Touchscreen (if supported)
-- USB Ports
-- CPU Freq
-- Intel Bluetooth / Wifi
+<img src="https://i.imgur.com/HFMsSFR.png" />
+
 
 ## Get iServices working
 Start Fresh:
@@ -69,7 +59,19 @@ Clean House
         * com.apple.imagent
         * com.apple.imessage
         * com.apple.imservice
-    - Clear Recycle Bin and Restart computer.
+    - Clear Recycle Bin and Restart computer
+
+## What works
+
+- iGPU
+- Audio
+- Battery
+- Touchpad
+- Touchscreen (if supported)
+- USB Ports
+- CPU Freq
+- Intel Bluetooth / Wifi
+
 
 ## Credits:
 
