@@ -39,11 +39,9 @@ After modding the BIOS, change DVMT Pre Alloc to 64MB, DVMT Max Alloc to MAX. Al
 
 ## Credits:
 
-- [hackintosh.expert][3] - You should contact them to make you the Hackintosh config, highly recommended!
-- Apple for their OS
+- @steelbrain for his work on the BIOS modding
 - OpenCore Team
 - CorpNewt
 
 [1]:https://dortania.github.io/OpenCore-Install-Guide/
 [2]:https://github.com/corpnewt/GenSMBIOS
-[3]:https://hackintosh.expert/
