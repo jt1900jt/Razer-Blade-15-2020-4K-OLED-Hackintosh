@@ -2,6 +2,7 @@
 
 <img src="https://i.imgur.com/Pf1KxTt.png" />
 <img src="https://i.imgur.com/KFpYw0c.jpeg" />
+
 ## Introduction
   
 Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4. If you would like to get started with creating a Hackintosh on your Razer Blade but have no experience, I would highly reccomend following Dortania's fantastic [Opencore Install guide][1] and then returning here for troubleshooting.
