@@ -2,6 +2,8 @@
 <b><h1>Razer Blade 15 2020 4K OLED Hackintosh</h1></b>
 
 <img src="https://i.imgur.com/Pf1KxTt.png" />
+  
+<center>
 
 ## Introduction
   
