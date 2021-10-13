@@ -1,4 +1,4 @@
-# Razer Blade 15 4K OLED 2020 Hackintosh
+# Razer Blade 15 2020 4K OLED Hackintosh
 
 Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4
 
