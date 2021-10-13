@@ -21,7 +21,7 @@ If you would like to get started with creating a Hackintosh on your Razer Blade 
 
 Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's [GenSMBIOS][2] to create your own
 
-!(https://imgur.com/a/4M78Ytz)
+![PlatformInfo](https://imgur.com/a/4M78Ytz)
 
 ## Pre-Install
 
