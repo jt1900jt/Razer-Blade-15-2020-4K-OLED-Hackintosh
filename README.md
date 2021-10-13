@@ -1,5 +1,7 @@
 <p align="center">
-# Razer Blade 15 2020 4K OLED Hackintosh
+<b>
+<h1>Razer Blade 15 2020 4K OLED Hackintosh</h1>
+  </b>
 </p>
 
 Configuration for getting macOS Big Sur to run on a Razer Blade 15 2020 using OpenCore 0.7.4
